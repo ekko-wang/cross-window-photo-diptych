@@ -1,0 +1,4 @@
+interface:
+  display_name: "CrossWindow｜交错之窗"
+  short_description: "快速生成原位窗口互换双联画，自动适配困难主体与比例。"
+  default_prompt: "Use $cross-window-photo-diptych-v2 to quickly create a position-locked cross-window diptych from these two photos."
