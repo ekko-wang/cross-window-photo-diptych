@@ -3,6 +3,14 @@
 > 让两张照片，在彼此的位置上短暂相遇。  
 > Let two photographs briefly meet in each other's place.
 
+示例 ｜  Examples
+
+<img width="1080" height="1120" alt="Codex 图像 2026年8月11日 14_20_23" src="https://github.com/user-attachments/assets/29d90bec-80a2-494f-807d-56a2230a63ee" />
+<img width="1080" height="1620" alt="v2-fuji-hikers-final" src="https://github.com/user-attachments/assets/54e99268-f6eb-4a4a-be1a-e7b4bf50848c" />
+<img width="1080" height="1658" alt="v2-gull-runner-final" src="https://github.com/user-attachments/assets/71fe67a2-86c4-4c9c-b869-96cf4b0bbdce" />
+
+
+
 [中文](#中文) · [English](#english)
 
 ---
