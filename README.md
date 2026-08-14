@@ -36,7 +36,7 @@ CrossWindow 偏爱清晰、克制的矩形窗口。它不抠图、不重绘，�
 将仓库放入 Codex 的 Skills 目录：
 
 ```bash
-git clone https://github.com/ekko-wang/crosswindow.git ~/.codex/skills/cross-window-photo-diptych-v2
+git clone https://github.com/ekko-wang/cross-window-photo-diptych.git ~/.codex/skills/cross-window-photo-diptych-v2
 ```
 
 需要 Python 3 与 Pillow：
@@ -95,7 +95,7 @@ Those differences—warm and cool, near and far, city and nature—are where the
 Place the repository in your Codex Skills directory:
 
 ```bash
-git clone https://github.com/ekko-wang/crosswindow.git ~/.codex/skills/cross-window-photo-diptych-v2
+git clone https://github.com/ekko-wang/cross-window-photo-diptych.git ~/.codex/skills/cross-window-photo-diptych-v2
 ```
 
 Python 3 and Pillow are required:
